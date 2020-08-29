@@ -73,6 +73,7 @@ npm start
 
 
 ## Special Thanks 🙇
+- [Vivek Kumar Singh](https://github.com/reachvivek) for contributing to [github-readme-stats](https://github.com/reachvivek/Github-Profile-Readme-Generator)
 - [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [Gautam Krishna R](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
